@@ -1,5 +1,5 @@
 {
 "version": "1.2",
 "token": "anunyasembarangsaja",
-"firmware_url": "http://10.16.36.123/file.ino.bin"
+"firmware_url": "https://github.com/hasruleta/projek-iot-hasrul/raw/refs/heads/main/update-firmware-OTA.ino.bin"
 }
